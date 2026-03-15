@@ -1,6 +1,10 @@
 # HW-3 – Univariate Data Visualization
 
-This repository contains my homework for HW-3 in the course **DACSS 690V: Data Visualization** at the University of Massachusetts Amherst.
+## Dashboard
+https://690v-dacss.github.io/hw-3/
+
+This repository contains my homework for HW-3 in the course DACSS 690V: Data Visualization at the University of Massachusetts Amherst.
+
 
 ## Assignment
 The goal of this assignment is to create two univariate plots:
